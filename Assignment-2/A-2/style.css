@@ -1,0 +1,21 @@
+.card{
+    width: 350px;
+    border-radius: 7px;
+    background-color: rgb(106, 12, 194);
+    margin: 20px 400px;
+    padding: 18px 27px;
+    /* text-align: center; */
+}
+
+.card-frame{
+    color: white;
+    text-align: center;
+    /* margin: ; */
+}
+.para{
+    background-color:  rgb(106, 12, 194);
+    font-size: 7px;
+    /* margin-left: 100px; */
+    text-align: center;
+
+}
